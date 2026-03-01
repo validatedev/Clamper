@@ -117,6 +117,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## Acknowledgments
 
+- [Barbee](https://apps.apple.com/us/app/barbee-hide-menu-bar-items/id1548711022) — For providing the initial pixel values for menu bar spacing
 - [TighterMenubar](https://github.com/vanja-ivancevic/TighterMenubar) — Open-source macOS app by Vanja Ivancevic for adjusting menu bar spacing
 - [Menu Bar Spacing](https://sindresorhus.com/menu-bar-spacing) — Free macOS utility by Sindre Sorhus for adjusting menu bar spacing
 - [SF Symbols](https://developer.apple.com/sf-symbols/) — Apple's iconography system
