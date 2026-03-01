@@ -1,6 +1,6 @@
 cask "clamper" do
   version "1.0.0"
-  sha256 "PLACEHOLDER"
+  sha256 "77195e3da6c15b68ba1621255d0132172b38ff456efafd0db83a1aad0535fe5f"
 
   url "https://github.com/validatedev/Clamper/releases/download/v#{version}/Clamper-#{version}.dmg"
   name "Clamper"

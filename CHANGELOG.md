@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.0] - 2026-03-01
+
 ### Added
 
 - Initial release
@@ -20,4 +22,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Automatic updates via Sparkle
 
 [unreleased]: https://github.com/validatedev/Clamper/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/validatedev/Clamper/releases/tag/v1.0.0
 [1.0.0]: https://github.com/validatedev/Clamper/releases/tag/v1.0.0
